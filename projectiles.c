@@ -92,6 +92,7 @@ void check_projectiles_collision(GAME* game){
                 change_bubble(bubble, game);
             }else if (p_point->x == -2 || p_point->x == 94 || p_point->y == -1 || p_point->y == 57 || p_point->x == -8 || p_point->x == 100 || p_point->y == -4 || p_point->y == 59){
                 for(i++; i <= projectiles->length; i++) {
+                    mvprintw(p_point->y, p_point->x, " ");
                     projectiles->projectiles[i-1] = projectiles->projectiles[i];
                 }
                 projectiles->length--;
