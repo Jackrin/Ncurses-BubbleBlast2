@@ -1,5 +1,5 @@
 # BubbleBlast2 with Ncurses
-Recreation of the game "BubbleBlast2 (PlayStore)" I made for university using the Ncurses library. 
+Recreation of the game "BubbleBlast2 (PlayStore)" I made using the Ncurses library. 
 
 Made for Linux x86_64 and ARM64.
 
