@@ -9,3 +9,6 @@ The game completly recreates the interface from the above mentioned android game
 ## Technologies used
 - Completly written in C.
 - Ncurses library that allows to draw on the terminal, used by many interactive terminal games.
+
+## Screenshot:
+![screenshot_2023-05-22_16-24-53_165523335](https://github.com/Jackrin/Ncurses-BubbleBlast2/assets/15637352/499ac83a-8787-47f6-97e0-caa7b96a0071)
